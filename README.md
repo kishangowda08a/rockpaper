@@ -1,2 +1,2 @@
 # rockpaper
-This is a Basic JavaScript MiniProject
+This is a Basic JavaScript MiniProject.
