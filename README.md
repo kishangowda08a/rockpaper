@@ -1,5 +1,5 @@
-# rockpaper
-This is a html  and css frontend  project
+# Amazon Front Page
+This is a  basic html and css frontend  project
 
 # Teacher
 Kishan Gowda 
