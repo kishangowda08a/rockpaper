@@ -1,7 +1,5 @@
 # rockpaper
-This is a Basic JavaScript MiniProject.
-
-this is a html  and css frontend  project
+This is a html  and css frontend  project
 
 # Teacher
 Kishan Gowda 
